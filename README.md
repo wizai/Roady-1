@@ -11,3 +11,4 @@ L'utilisateur saisit ses coordonnées de *départ* et d'*arrivée* puis choisit 
 * Dégustation de bières
 * Visite de musées
 * Route des vins
+* Routes des fromages francais
